@@ -1,4 +1,4 @@
-# Express TypeScript Project
+# Agent Demo
 
 Agents from scratch using Langchain js and the Holoworld Video API.
 
