@@ -1,6 +1,8 @@
 # Agent Demo
 
 Agents from scratch using Langchain js and the Holoworld Video API.
+From the "Create AI agents that can jump on video" session part of the Solana AI Hackathon.
+Full recording: [link](https://x.com/pperuzzo_/status/1869286197715259706)
 
 ## Prerequisites
 
